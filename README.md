@@ -1,4 +1,4 @@
 # Hello-World
-"Potato Potato" - Bart
-Manchego
+"Potato Potato" - Bart;
+Manchego;
 Kopps
